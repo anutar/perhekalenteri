@@ -6,6 +6,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <link href="styles/styles.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Perhekalenteri</title>
   </head>

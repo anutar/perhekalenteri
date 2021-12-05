@@ -14,7 +14,7 @@
 
 @import url('http://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
 @import url('<?=$headerfonts[$header]['url'] ?>');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
 body {
   width: 297mm;
   font-family: 'Lato', sans-serif;

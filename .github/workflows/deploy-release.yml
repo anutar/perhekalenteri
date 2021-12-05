@@ -1,7 +1,7 @@
 name: Release deploy to neutroni
 
 on:
-  release:
+  release: [published]
 
 jobs:
   deploy:

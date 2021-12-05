@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(45deg, #2F1C53, #A46DFF, #F6D1FD);
+}
+
+h1 {
+    color:blanchedalmond;
+}
+
+form {
+    color: blanchedalmond;
+}
+
+footer {
+    color:blanchedalmond;
+}
